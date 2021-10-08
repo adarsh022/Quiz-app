@@ -1,0 +1,31 @@
+.result h1 {
+  margin: 25px;
+  padding: 15px;
+  font-size: 1.5em;
+}
+
+.result .container {
+  margin: 0 50px;
+  padding: 0 30px;
+  border: 1px solid #3e3e3e;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 10px;
+}
+
+.result .container h2 {
+  margin: 20px 0;
+  font-size: 1em;
+  text-transform: uppercase;
+}
+
+.result .container h4,
+.result .container p {
+  text-align: left;
+  margin-bottom: 10px;
+  font-size: 0.7em;
+}
+
+.result .container p {
+  padding-bottom: 10px;
+}

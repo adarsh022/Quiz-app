@@ -1,0 +1,28 @@
+main h4 {
+  text-align: right;
+  margin: 50px;
+}
+
+main .question {
+  margin: 50px;
+  padding: 30px;
+  border: 1px solid #3e3e3e;
+  text-align: left;
+}
+
+main .question h3 {
+  text-align: left;
+}
+
+main .question form {
+  margin-top: 30px;
+}
+
+main .question form .question-options {
+  padding-top: 10px;
+}
+
+main .question form .question-options input {
+  transform: scale(1.6);
+  margin-right: 10px;
+}
